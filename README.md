@@ -1,8 +1,8 @@
-# Hi there! 👋
-
 <p align=center>
   <br>
-  I'm <a href="https://www.linkedin.com/chriskingvargas">Chris King Vargas</a>. A Front-end Web Developer from Philippines.
+  <span style="font-size: 2.5rem;"><b>Hello! 👋</span></b>
+  <br>
+  <span style="font-size: 1.75rem;"><b>I'm <a href="https://www.linkedin.com/chriskingvargas"><span style="font-size: 2.25rem;">Chris King Vargas</span></a>. A Front-End Web Developer from <a href="https://www.google.com/search?q=philippines">Philippines</a>.</span></b>
   <br><br>
   <a href="https://devckvargas.github.io/">
     <img src="assets/img/profile.png" width="700" alt="Chris King Vargas">
