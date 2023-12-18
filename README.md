@@ -1,7 +1,8 @@
 # About me
 
 <p>
-  <b>I'm a graduate of BSIT major in Web Development in the <a href="https://www.google.com/search?q=philippines">Philippines</a>.</b>
+  <b>I'm a BSIT graduate, major in front-end web development in the <a href="https://www.google.com/search?q=philippines">Philippines</a>.</b>
+  
   <br><br>
   <div align=center>
     <a href="https://devckvargas.github.io/">
@@ -12,6 +13,13 @@
     <sup><a href="http://www.freepik.com">Designed by Freepik</a></sup>
   </p>
 </p>
+
+## My certifications
+
+<!-- TODO: change to cisco logo -->
+[Cisco](https://www.credly.com/users/chris-king-vargas.1a07d062)<br>
+
+## My time on GitHub
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2012%20mins-blue)
@@ -85,4 +93,3 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devCKVargas/devCKVargas/main/assets/bar_graph.png)
 
  Last Updated on 18/12/2023 09:17:26 UTC
-<!--END_SECTION:waka-->
