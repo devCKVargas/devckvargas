@@ -1,6 +1,7 @@
 name: Generate Waka Time Readme
 
 on:
+  push:
   schedule:
     # Runs at 12am PST
     - cron: '00 08 * * *'
