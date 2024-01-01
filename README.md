@@ -48,7 +48,7 @@
 ## WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -89,5 +89,5 @@ hyprdots                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/devCKVargas/devCKVargas/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2024 16:08:37 UTC
+ Last Updated on 01/01/2024 16:10:04 UTC
 <!--END_SECTION:waka-->
