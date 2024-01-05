@@ -50,7 +50,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm an Early 🐤** 
 
@@ -88,5 +88,5 @@ windows                  5 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ![Lines of Code chart](https://raw.githubusercontent.com/devCKVargas/devCKVargas/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2024 08:20:23 UTC
+ Last Updated on 05/01/2024 08:21:50 UTC
 <!--END_SECTION:waka-->
