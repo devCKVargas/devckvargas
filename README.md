@@ -1,51 +1,71 @@
 # About me
 
-**Hello ![waving](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Chris King Vargas. I'm a BSIT graduate, major in front-end web development**
-<p>
-  <a href="https://devckvargas.github.io/"><img src="assets/img/profile.png" width="700" alt="Chris King Vargas"/></a><br>
-  <sup><a href="http://www.freepik.com">Designed by Freepik</a></sup>
-</p>
-
-## Front-End Web Developer
+<p align=center><a href="https://devckvargas.github.io/"><img src="assets/img/profile.png" width="700" alt="Chris King Vargas"/></a></p>
+<p align=right><sup><a href="http://www.freepik.com">Designed by Freepik</a></sup></p>
+<p style="font-size: 1.5rem; font-weight: bold;">Hello 👋 I'm a BSIT graduate, I got a major in front-end web development.</p>
 
 * 🌍  I'm based in [Philippines](https://www.google.com/search?q=philippines)
-* 🚀  I'm currently working on [devckvargas.github.io](devckvargas.github.io) & [my windows script](https://github.com/devckvargas/windows)
-* 🧠  I'm currently learning JavaScript
+* 🚀  I'm currently working on [devckvargas.github.io](devckvargas.github.io) & [my windows app install & restore script](https://github.com/devckvargas/windowsAppInstallScript)
+* 🧠  I'm currently learning JavaScript & Excel
 * 🐱  I have a Siamese cat named Totaro
 
-### Skills
+## Skills
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/git-icon.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/html-5.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/css-3.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/sass.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tailwindcss-icon.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/netlify-icon.svg" width="36" height="36" alt="Netlify" /></a>
+<br>
+<a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/microsoft-windows-icon.svg" width="36" height="36" alt="Windows" /></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/linux-tux.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://archlinux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/archlinux.svg" width="36" height="36" alt="Arch Linux" /></a>
+<br>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/adobe-photoshop.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/adobe-premiere.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/figma.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Experience
+## Experience
+
+* On-The-Job(OJT) Training: [CFM Institute of Computer Knowledge](https://www.linkedin.com/company/cfminstituteph/)
+
+*To be filled*
 
 ### My certifications
 <!-- TODO: change to cisco logo -->
 [Cisco](https://www.credly.com/users/chris-king-vargas.1a07d062)<br>
 
-### Socials
+## Socials
 
-<p align="left"> <a href="https://discord.com/users/404165469533241345" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/devckvargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/devCKVargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chriskingvargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/devCKVargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://discord.com/users/404165469533241345" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/discord-icon.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/discord-icon.svg" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/discord-icon.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/devckvargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/devCKVargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chriskingvargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/devCKVargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+## Stats
 
-<b>My GitHub Stats</b>
+![devCKVargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&hide=&count_private=true&theme=dracula#gh-dark-mode-only&hide_border=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+![devCKVargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&hide=&count_private=true&theme=buefy#gh-light-mode-only&hide_border=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
 
-<a href="http://www.github.com/devCKVargas"><img src="https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&show_icons=true" alt="devCKVargas's GitHub stats" /></a>
+![devCKVargas' Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devCKVargas&theme=dracula#gh-dark-mode-only&hide_border=true)
+![devCKVargas' Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devCKVargas&theme=buefy#gh-light-mode-only&hide_border=true)
 
-<a href="http://www.github.com/devCKVargas"><img src="https://github-readme-streak-stats.herokuapp.com/?user=devCKVargas&stroke=ffffff&background=0f172a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="github streak stats"/></a>
+![devCKVargas' Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=dracula#gh-dark-mode-only&hide_border=true&locale=en&custom_title=Top%20%Languages)
+![devCKVargas' Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=buefy#gh-light-mode-only&hide_border=true&locale=en&custom_title=Top%20%Languages)
 
-<a href="http://www.github.com/devCKVargas"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=devCKVargas&bg_color=0f172a&color=ffffff&line=f97316&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Top Repositories
 
-<a href="https://github.com/devCKVargas" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![windowsAppInstallScript](https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=windowsAppInstallScript&theme=dracula#gh-dark-mode-only&hide_border=true&locale=en)
+![windowsAppInstallScript](https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=windowsAppInstallScript&theme=buefy#gh-light-mode-only&hide_border=true&locale=en)
 
-<b>Top Repositories</b>
+![hyprdots](https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&theme=dracula#gh-dark-mode-only&hide_border=true&locale=en)
+![hyprdots](https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&theme=buefy#gh-light-mode-only&hide_border=true&locale=en)
 
-<div width="100%" align="center"><a href="https://github.com/devCKVargas/hyprdots" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en" alt="hyprdots github stats"/></a></div><br /><br /><br /><br /><br /><br /><br />
+### WakaTime
 
-## WakaTime
+![devCKVargas' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devCKVargas&theme=dracula#gh-dark-mode-only)
+![devCKVargas' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devCKVargas&theme=buefy#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
