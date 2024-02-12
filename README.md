@@ -44,35 +44,40 @@
 <p align="left"> <a href="https://discord.com/users/404165469533241345" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/discord-icon.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/discord-icon.svg" /> <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/discord-icon.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/devckvargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/devCKVargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chriskingvargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/devCKVargas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 ## Stats
-
+<!-- Dark Mode -->
 ![devCKVargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&rank_icon=github&hide=&count_private=true&theme=dracula&hide_border=true&show=reviews,prs_merged,prs_merged_percentage#gh-dark-mode-only)
-![devCKVargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&rank_icon=github&hide=&count_private=true&theme=buefy&hide_border=true&show=reviews,prs_merged,prs_merged_percentage#gh-light-mode-only)
 
 ![devCKVargas' Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devCKVargas&theme=dracula&hide_border=true#gh-dark-mode-only)
+
+![devCKVargas' Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=dracula&hide_border=true&layout=compact#gh-dark-mode-only)
+<!-- Light Mode -->
+<!-- ![devCKVargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&rank_icon=github&hide=&count_private=true&theme=buefy&hide_border=true&show=reviews,prs_merged,prs_merged_percentage#gh-light-mode-only)
+
 ![devCKVargas' Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devCKVargas&theme=buefy&hide_border=true#gh-light-mode-only)
 
-![devCKVargas' Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=dracula&hide_border=true&layout=compact#gh-dark-mode-only)
-![devCKVargas' Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=buefy&hide_border=true&layout=compact#gh-light-mode-only)
+![devCKVargas' Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=buefy&hide_border=true&layout=compact#gh-light-mode-only) -->
 
 ### Top Repositories
-
+<!-- Dark Mode -->
 <a href="https://github.com/devCKVargas/windowsAppInstallScript">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=windowsAppInstallScript&theme=dracula&hide_border=true#gh-dark-mode-only" alt="windowsAppInstallScript">
-</a>
-<a href="https://github.com/devCKVargas/windowsAppInstallScript">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=windowsAppInstallScript&theme=buefy&hide_border=true#gh-light-mode-only" alt="windowsAppInstallScript">
 </a>
 <a href="https://github.com/devCKVargas/hyprdots">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&theme=dracula&hide_border=true#gh-dark-mode-only" alt="hyprdots">
 </a>
+<!-- Light Mode -->
+<!-- <a href="https://github.com/devCKVargas/windowsAppInstallScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=windowsAppInstallScript&theme=buefy&hide_border=true#gh-light-mode-only" alt="windowsAppInstallScript">
+</a>
 <a href="https://github.com/devCKVargas/hyprdots">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&theme=buefy&hide_border=true#gh-light-mode-only" alt="hyprdots">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&theme=buefy&hide_border=true#gh-light-mode-only" alt="hyprdots"> -->
 </a>
 
 ### WakaTime
-
+<!-- Dark Mode -->
 ![devCKVargas' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devCKVargas&theme=dracula#gh-dark-mode-only)
-![devCKVargas' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devCKVargas&theme=buefy#gh-light-mode-only)
+<!-- Light Mode -->
+<!-- ![devCKVargas' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devCKVargas&theme=buefy#gh-light-mode-only) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
