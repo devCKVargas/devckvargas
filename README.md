@@ -45,22 +45,29 @@
 
 ## Stats
 
-![devCKVargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&hide=&count_private=true&theme=dracula#gh-dark-mode-only&hide_border=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
-![devCKVargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&hide=&count_private=true&theme=buefy#gh-light-mode-only&hide_border=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage)
+![devCKVargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&rank_icon=github&hide=&count_private=true&theme=dracula&hide_border=true&show=reviews,prs_merged,prs_merged_percentage#gh-dark-mode-only)
+![devCKVargas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devCKVargas&show_icons=true&rank_icon=github&hide=&count_private=true&theme=buefy&hide_border=true&show=reviews,prs_merged,prs_merged_percentage#gh-light-mode-only)
 
-![devCKVargas' Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devCKVargas&theme=dracula#gh-dark-mode-only&hide_border=true)
-![devCKVargas' Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devCKVargas&theme=buefy#gh-light-mode-only&hide_border=true)
+![devCKVargas' Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devCKVargas&theme=dracula&hide_border=true#gh-dark-mode-only)
+![devCKVargas' Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=devCKVargas&theme=buefy&hide_border=true#gh-light-mode-only)
 
-![devCKVargas' Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=dracula#gh-dark-mode-only&hide_border=true&locale=en&custom_title=Top%20%Languages)
-![devCKVargas' Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=buefy#gh-light-mode-only&hide_border=true&locale=en&custom_title=Top%20%Languages)
+![devCKVargas' Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=dracula&hide_border=true&layout=compact#gh-dark-mode-only)
+![devCKVargas' Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=devCKVargas&langs_count=10&theme=buefy&hide_border=true&layout=compact#gh-light-mode-only)
 
 ### Top Repositories
 
-![windowsAppInstallScript](https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=windowsAppInstallScript&theme=dracula#gh-dark-mode-only&hide_border=true&locale=en)
-![windowsAppInstallScript](https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=windowsAppInstallScript&theme=buefy#gh-light-mode-only&hide_border=true&locale=en)
-
-![hyprdots](https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&theme=dracula#gh-dark-mode-only&hide_border=true&locale=en)
-![hyprdots](https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&theme=buefy#gh-light-mode-only&hide_border=true&locale=en)
+<a href="https://github.com/devCKVargas/windowsAppInstallScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=windowsAppInstallScript&theme=dracula&hide_border=true#gh-dark-mode-only" alt="windowsAppInstallScript">
+</a>
+<a href="https://github.com/devCKVargas/windowsAppInstallScript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=windowsAppInstallScript&theme=buefy&hide_border=true#gh-light-mode-only" alt="windowsAppInstallScript">
+</a>
+<a href="https://github.com/devCKVargas/hyprdots">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&theme=dracula&hide_border=true#gh-dark-mode-only" alt="hyprdots">
+</a>
+<a href="https://github.com/devCKVargas/hyprdots">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devCKVargas&repo=hyprdots&theme=buefy&hide_border=true#gh-light-mode-only" alt="hyprdots">
+</a>
 
 ### WakaTime
 
