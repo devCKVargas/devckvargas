@@ -1,10 +1,9 @@
 name: Generate Waka Time Readme
 
 on:
-  push:
   schedule:
-    # Runs at 12am PST
-    - cron: '00 08 * * *'
+    # Runs at 6AM PHT
+    - cron: '00 22 * * 1'
   workflow_dispatch:
 jobs:
   update-readme:
