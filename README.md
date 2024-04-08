@@ -94,7 +94,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -132,7 +132,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/devCKVargas/devCKVargas/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2024 22:09:10 UTC
+ Last Updated on 08/04/2024 22:10:36 UTC
 <!--END_SECTION:waka-->
 
 [![Generate Waka Time Readme](https://github.com/devCKVargas/devckvargas/actions/workflows/waka-readme.yml/badge.svg?branch=main)](https://github.com/devCKVargas/devckvargas/actions/workflows/waka-readme.yml)
