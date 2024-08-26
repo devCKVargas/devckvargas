@@ -92,9 +92,9 @@
 <!-- ![devCKVargas' WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devCKVargas&theme=buefy#gh-light-mode-only) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-123%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -121,11 +121,11 @@ Sunday                   24 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 🔥 Editors: 
-VS Code                  2 hrs 39 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  1 hr 19 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🐱‍💻 Projects: 
-Web-Presentation         1 hr 51 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   70.08 % 
-vidal-database           47 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.92 % 
+vidal-database           1 hr 9 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   87.60 % 
+Web-Presentation         9 mins              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.40 % 
 ```
 
 **Timeline**
@@ -133,7 +133,7 @@ vidal-database           47 mins             ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/devCKVargas/devCKVargas/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 22:11:55 UTC
+ Last Updated on 26/08/2024 22:12:16 UTC
 <!--END_SECTION:waka-->
 
 [![Generate Waka Time Readme](https://github.com/devCKVargas/devckvargas/actions/workflows/waka-readme.yml/badge.svg?branch=main)](https://github.com/devCKVargas/devckvargas/actions/workflows/waka-readme.yml)
